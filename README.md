@@ -48,3 +48,13 @@ Notes taken from Igor Soarez's Nodeconf Barcelona talk ("Becoming a solid Node.j
 - Basic unserstanding of v8
 - Able to troubleshoot performance issues
 - Able to succesfully implement custom TCP protocols
+
+### What to focus on?
+- Network prorocols
+- Theory of distributed systems
+- Fault tolerance
+- Operating Systems
+- Native modules
+- Performance debugging tools
+- libuv
+- v8
