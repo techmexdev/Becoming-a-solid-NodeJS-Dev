@@ -1,5 +1,5 @@
 # Becoming-a-solid-NodeJS-Dev
-Notes taken from Igor Soarez's Nodeconf Barcelona talk ("Becoming a solid Node.js developer")[https://www.youtube.com/watch?v=eRXLh526Hyk]
+Notes taken from Igor Soarez's Nodeconf Barcelona talk ["Becoming a solid Node.js developer"](https://www.youtube.com/watch?v=eRXLh526Hyk)
 
 ## Capable developer
 - Able to build modular Node.js applications
